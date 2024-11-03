@@ -44022,12 +44022,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 37px;
+  min-height: 190px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 8px auto;
+  margin: 15px auto 60px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
